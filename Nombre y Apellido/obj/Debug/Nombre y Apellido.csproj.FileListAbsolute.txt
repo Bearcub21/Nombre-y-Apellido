@@ -1,0 +1,6 @@
+C:\Users\Bearcub21\Documents\UAPA\Programacion I\Unidad II\Tarea II\Nombre y Apellido\Nombre y Apellido\bin\Debug\Nombre y Apellido.exe.config
+C:\Users\Bearcub21\Documents\UAPA\Programacion I\Unidad II\Tarea II\Nombre y Apellido\Nombre y Apellido\bin\Debug\Nombre y Apellido.exe
+C:\Users\Bearcub21\Documents\UAPA\Programacion I\Unidad II\Tarea II\Nombre y Apellido\Nombre y Apellido\bin\Debug\Nombre y Apellido.pdb
+C:\Users\Bearcub21\Documents\UAPA\Programacion I\Unidad II\Tarea II\Nombre y Apellido\Nombre y Apellido\obj\Debug\Nombre y Apellido.csprojResolveAssemblyReference.cache
+C:\Users\Bearcub21\Documents\UAPA\Programacion I\Unidad II\Tarea II\Nombre y Apellido\Nombre y Apellido\obj\Debug\Nombre y Apellido.exe
+C:\Users\Bearcub21\Documents\UAPA\Programacion I\Unidad II\Tarea II\Nombre y Apellido\Nombre y Apellido\obj\Debug\Nombre y Apellido.pdb
